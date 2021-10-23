@@ -20,3 +20,10 @@ Group A
    c) Geometrical Operations - Zooming, Translation  
    d) Statistical operations- Median, Standard deviation
    e) Image Interpolation - Up sampling
+
+# Image-Processing-DA2
+
+Name:- Harsh Vardhan
+Reg No:- 19BCE1661
+
+Hough Transform
